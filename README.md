@@ -4,4 +4,6 @@ This repository contains my solutions for the [Advent of Code 2023](https://adve
 Tis the season for bash scripting falalalala la la la laa
 
 
-![alt text](https://user-images.githubusercontent.com/46886724/145045869-97cb7298-bb88-4d10-9e43-099a943d894c.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/46886724/145045869-97cb7298-bb88-4d10-9e43-099a943d894c.png" alt="Advent of Code" width="250" height="400" />
+</p>
